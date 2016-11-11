@@ -50,4 +50,4 @@ class Box<T> {
 	T get(int i) { return list.get(i); }
 	int size() { return list.size(); }
 	public String toString() { return list.toString(); }
-}
+}//변경변
